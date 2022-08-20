@@ -26,21 +26,27 @@ function Footers() {
                         <h2 class="Title mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Follow us</h2>
                         <ul class="text-gray-600 dark:text-gray-400">
                             <li class="mb-4">
-                                <a href="https://github.com/themesberg/flowbite" class="hover:underline ">Github</a>
+                                <a href="" class="hover:underline ">Github</a>
                             </li>
                             <li>
-                                <a href="https://discord.gg/4eeurUVvTy" class="hover:underline">Discord</a>
+                                <a href="https://discord.gg/89GRkyRB" class="hover:underline">Discord</a>
                             </li>
                         </ul>
                     </div>
                     <div>
-                        <h2 class="Title mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Legal</h2>
+                        <h2 class="Title mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Developers</h2>
                         <ul class="text-gray-600 dark:text-gray-400">
                             <li class="mb-4">
-                                <a href="#" class="hover:underline">Privacy Policy</a>
+                                Jan Rafael Guno
                             </li>
                             <li>
-                                <a href="#" class="hover:underline">Terms &amp; Conditions</a>
+                                Danica Grace Tagayon
+                            </li>
+                            <li>
+                                Paul Gilbuena
+                            </li>
+                            <li>
+                                Bryant Rosillo
                             </li>
                         </ul>
                     </div>
