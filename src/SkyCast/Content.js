@@ -11,7 +11,7 @@ function Contents() {
                             Welcome to SkyCast
                         </span>
                         <span class="Title block">
-                            It&#x27;s today or tomorrow.
+                            It&#x27;s Weather today or tomorrow.
                         </span>
                     </h2>
                     <p class="text-xl mt-4 text-gray-400">
